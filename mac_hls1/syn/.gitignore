@@ -1,0 +1,10 @@
+*
+.*
+!.gitignore
+!Makefile
+!build_prj.tcl
+!build_prj_top.tcl
+!rtl_sim_gui.tcl
+!rtl_sim.tcl
+!common.tcl
+!README.md
